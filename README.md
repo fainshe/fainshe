@@ -1,13 +1,35 @@
+<h1 align="center">Don Don! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
+<p align="center">
+<img src="https://media.tenor.com/rZ1QePZ8NvAAAAAd/mumei-hololive.gif" />
+</p>
 
-# Welcome, Dev-Viewers!
-<h2>My name is Feesu, i am is an begginer developer, so don't bully me :></h2>
+<p align="center">
 
-# Contact Me
-<a href="https://twitter.com/fzxputraa">Twitter</a>
+-  Nama saya Feesu
+-  Saya Suka nanashi mumei.
+-  Saya hanya pemula, hehe
+-  Jangan bully saya puh, mending donate aja dapet pahala~
 
-# My WhatsApp Bot
-<a href="https://wa.me/6281776677125?text=Menu">WhatsApp</a>
-<!---
-fainshe/fainshe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</p>
+
+------
+
+## Moomin With :
+<p align="center">
+  <a href="https://open.spotify.com/track/bfdadf6c-de9e-468b-bbfa-ffeb7c395aec?si=Btfle_keSyysCVtV-bZvFQ&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a></p>
+
+> * 00:00​ ━❍──────── 12:27 
+> * ↻ㅤㅤ⊲ㅤㅤⅡㅤㅤ⊳ㅤㅤ↺ㅤ
+
+------
+
+## ```SOSIALMEDIA SAYA```
+<p align="center">
+<a href="https://www.instagram.com/faizputra_m"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.youtube.com/@fainshe"><img src="https://img.shields.io/badge/YouTube-c4302b?style=for-the-badge&logo=youtube&logoColor=white"/>
+<a href="https://wa.me/6285793887010"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
+
+## ```DONASI```
+
+- [`TRAKTEER`](https://trakteer.id/feesu)
