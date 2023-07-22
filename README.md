@@ -1,10 +1,22 @@
+<script>
+  function displayTime(){
+      var clientTime=new Date();
+      var time=new Date(clientTime.getTime());
+      var sh=time.getHours().toString();
+      var sm=time.getMinutes().toString();
+      var ss=time.getSeconds().toString();
+    document.getElementById("jam").innerHTML=(sh.length==1?"0"+sh:sh)+":"+(sm.length==1?"0"+sm:sm)+":"+(ss.length==1?"0"+ss:ss);
+    document.getElementById("jaminput").value = (sh.length==1?"0"+sh:sh)+":"+(sm.length==1?"0"+sm:sm)+":"+(ss.length==1?"0"+ss:ss);
+</script>
+
+
 <h1 align="center">Don Don! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
 <p align="center">
 <img src="https://media.tenor.com/rZ1QePZ8NvAAAAAd/mumei-hololive.gif" />
 </p>
 
 <p align="center">
-
+<p id="jam"></p>
 -  Nama saya Feesu
 -  Saya Suka nanashi mumei.
 -  Saya hanya pemula, hehe
