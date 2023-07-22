@@ -18,7 +18,7 @@
 <p align="center">
   <a href="https://open.spotify.com/track/3zb8psAdbFqInvEoxUWHCB?si=c6Dl_52sQ_68EuqcThbkgg" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a></p>
 
-> * 00:00​ ━❍──────── 12:27 
+> * 00:00​ ━❍──────── 07:74
 > * ↻ㅤㅤ⊲ㅤㅤⅡㅤㅤ⊳ㅤㅤ↺ㅤ
 
 ------
