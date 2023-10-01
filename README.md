@@ -13,14 +13,10 @@
 
 ------
 
-## Moomin With :
+## Visitor :
 <p align="center">
-  <a href="https://open.spotify.com/track/3zb8psAdbFqInvEoxUWHCB?si=c6Dl_52sQ_68EuqcThbkgg" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a></p>
-
-> * 00:00​ ━❍──────── 07:74
-> * ↻ㅤㅤ⊲ㅤㅤⅡㅤㅤ⊳ㅤㅤ↺ㅤ
-
-------
+<img align="center" alt="count" src="https://count.getloli.com/get/@:fainshe?theme=hololive">
+</p>
 
 ## ```CONNECT WITH ME```
 <p align="center">
