@@ -21,7 +21,7 @@ I build things that try to feel alive.
 Mostly working around **AI apps**, **backend systems**, **product ideas**, and interfaces that should feel smooth instead of mechanical.  
 I like software that looks quiet on the surface, but has absurd amounts of thought underneath.
 
-A little bit engineer, a little bit designer, a little bit dreamkeeper.
+A little bit engineer, a little bit designer, an the seeker of happiness.
 
 ---
 
